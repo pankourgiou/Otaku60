@@ -3,7 +3,7 @@ i <- 1
 repeat{
   i <- i + 1
   print(phrase)
-  if(i > 1000){
+  if(i > 1000000000000000){
     break
   }
 }
