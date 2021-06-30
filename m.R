@@ -1,4 +1,4 @@
-phrase <- c("Epictetus")
+phrase <- c("Bertrand Russell")
 i <- 1
 repeat{
   i <- i + 1
